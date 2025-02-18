@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lingamvarsha58@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<div class="tenor-gif-embed" data-postid="27186574" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rust-ferris-simon-coding-intensifies-intensifies-gif-27186574">Rust Ferris Sticker</a>from <a href="https://tenor.com/search/rust-stickers">Rust Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left">
 </p>
 
