@@ -2,7 +2,7 @@
 <h3 align="center">CREATIVE INNOVATOR</h3>
 
 <div align="center">
-  <img src="https://tenor.com/view/rust-ferris-simon-coding-intensifies-intensifies-gif-27186574" width="300" />
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611vuh93oeu96u5ouasyzutl2z7xse9b5u94kasfa8c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
 </div>
 
 - 🌱 I'm currently learning **REACT,ANDROID DEVELOPEMENT,SQL,MONGODB,SPRINGBOOT**
